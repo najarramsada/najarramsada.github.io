@@ -5,6 +5,6 @@ category: Services
 title: Kubernetes Container<br>by Rancher
 description: |
 ---
-  A Kubernetes Container cluster management [UI](http://join.deathtothestockphoto.com/) managing multi node kubernetes cluster hosted on Google Cloud!
+  A Kubernetes Container cluster management by [RANCHER](https://rancher.com/) managing multi node kubernetes cluster hosted on Google Cloud!
   
 <a href="https://rancher.ramsada.io/" class="btn btn-primary btn-lg"><span class="network-name">Visit Rancher</span></a>					
