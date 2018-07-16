@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://ramsada.io
 title: RAMSADA.io
-email: your-email@domain.com
+email: ramsadanajar@gmail.com
 author: Najar Ramsada
 description: > # "Write an awesome description for your new site here. 
   Made by Najar Ramsada.
@@ -27,6 +27,6 @@ social:
   - title: twitter
     url: ""
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/najarramsada/
   - title: linkedin
-    url: 
+    url: https://au.linkedin.com/in/najarramsada
