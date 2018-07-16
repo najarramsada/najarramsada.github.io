@@ -1,0 +1,10 @@
+---
+layout: default
+img: confluence.png
+category: Services
+title: Confluence<br>by Atlassian
+description: |
+---
+  A confluence team site by [ATLASSIAN](https://www.atlassian.com/software/confluence)!
+  
+<a href="http://confluence.ramsada.io/" class="btn btn-primary btn-lg"><span class="network-name">Visit Confluence</span></a>					
