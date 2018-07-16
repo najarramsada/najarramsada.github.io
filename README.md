@@ -1,6 +1,7 @@
-# Landing Page Jekyll theme
+# RAMSADA.io site 
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+This is a repo for ramsada.io site made using Jekyll and theme based on based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+You can use this theme and template, visit [Landing Page](http://startbootstrap.com/templates/landing-page/)
 
 ## How to use
  - Place a image in `/img/services/`
