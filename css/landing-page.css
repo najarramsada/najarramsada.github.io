@@ -32,10 +32,17 @@ h6 {
     text-align: center;
     color: #f8f8f8;
     background: url(../img/intro-bg.jpg) no-repeat center center;
+
+    height: 100%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-size: cover;
 }
 
 .intro-message {
+	
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
@@ -108,11 +115,29 @@ h6 {
     width: 200px;
     border-top: 3px solid #e7e7e7;
 }
+.about {
+    padding: 200px 0;
+    color: #f8f8f8;
+    background: url(../img/background1.jpg) no-repeat center center;
+    background-size: cover;
+	    height: 100%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: cover;
+}
 
 .banner {
-    padding: 100px 0;
+    padding: 200px 0;
     color: #f8f8f8;
     background: url(../img/banner-bg.jpg) no-repeat center center;
+    background-size: cover;
+	    height: 100%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-size: cover;
 }
 
