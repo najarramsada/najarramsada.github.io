@@ -9,7 +9,7 @@ author: Najar Ramsada
 description: > # "Write an awesome description for your new site here. 
   Made by Najar Ramsada.
 copyright: 'Copyright &copy; 2018 Najar Ramsada. All Rights Reserved.'
-credits: 'Credits: Landing Page by <a href="http://startbootstrap.com/">Start Bootstrap</a>, made by Najar Ramsada'
+credits: 'Credits: Landing Page by <a href="http://startbootstrap.com/">Start Bootstrap</a>, site by Najar Ramsada'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -24,9 +24,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: ""
-  - title: github
-    url: https://github.com/najarramsada/
   - title: linkedin
     url: https://au.linkedin.com/in/najarramsada
+  - title: google
+    url: "mailto:ramsadanajar@gmail.com?Subject=ramsada.io"
+  - title: github
+    url: https://github.com/najarramsada/
