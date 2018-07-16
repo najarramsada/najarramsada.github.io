@@ -35,35 +35,7 @@ h6 {
     background: url(../img/background1.jpg) no-repeat center center fixed;
     background-size: cover;
 }
-@media all and (min-width: 601px) {
-	.intro-header {
-		background-size: cover;
-		background-position:fixed;
-	}
-	.banner {
-		background-size: cover;
-		background-position:fixed;
-	}
-	.about {
-		background-size: cover;
-		background-position:fixed;
-	}
-}
-@media all and (max-width: 601px) {
-	.intro-header {
-		max-width: 100%;
-		background-size: cover;
-		background-position: absolute;
-	}
-	.banner {
-		background-size: cover;
-		background-position: absolute;
-	}
-	.about {
-		background-size: cover;
-		background-position: absolute;
-	}
-}
+
 .intro-message {
 	
     position: relative;
