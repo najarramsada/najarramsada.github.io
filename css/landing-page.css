@@ -51,16 +51,18 @@ h6 {
 }
 @media all and (max-width: 601px) {
 	.intro-header {
+		max-width: 100%;
 		background-size: cover;
-		background-position:fixed;
 	}
 	.banner {
 		background-size: cover;
 		background-position:fixed;
+		background-attachment: scroll
 	}
 	.about {
 		background-size: cover;
 		background-position:fixed;
+		background-attachment: scroll
 	}
 }
 .intro-message {
