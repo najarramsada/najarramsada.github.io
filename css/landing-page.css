@@ -52,15 +52,15 @@ h6 {
 @media all and (max-width: 601px) {
 	.intro-header {
 		max-width: 100%;
-		background-size: 100%;
+		background-size: cover;
 	}
 	.banner {
 		max-width: 100%;
-		background-size: 100%;
+		background-size: cover;
 	}
 	.about {
 		max-width: 100%;
-		background-size: 100%;
+		background-size: cover;
 	}
 }
 .intro-message {
