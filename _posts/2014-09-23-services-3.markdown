@@ -7,4 +7,4 @@ description: |
 ---
   A private data cloud by [OwnCloud](http://owncloud.com/). This is an open source software, which can be hosted in your own infrastructure!
   
-<a href="https://OwnCloud.ramsada.io/" class="btn btn-primary btn-lg"><span class="network-name">Visit OwnCloud</span></a>					
+<a href="http://OwnCloud.ramsada.io/" class="btn btn-primary btn-lg"><span class="network-name">Visit OwnCloud</span></a>					
