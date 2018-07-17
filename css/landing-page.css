@@ -145,10 +145,18 @@ h6 {
 }
 
 @media(max-width:767px) {
+	.intro-header {
+		background: url(../img/background1.jpg) no-repeat center center;
+		background-size: cover;
+	}
 	.banner {
 		background: url(../img/background3.jpg) no-repeat center center;
 		background-size: cover;
 		}
+	.about {
+	    background: url(../img/background2.jpg) no-repeat center center;
+		background-size: cover;
+	}
     .banner h2 {
         margin: 0;
         text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
