@@ -1,10 +1,12 @@
 ---
 layout: default
-img: Confluence.png
+img: nextcloud.png
 category: Services
-title: Confluence<br>by Atlassian
+title: Private Cloud<br>by NextCloud
 description: |
 ---
-  A confluence team site by [ATLASSIAN](https://www.atlassian.com/software/confluence)!
+  Turn your private data storage into,
+  your very own private cloud in seconds using free Cloud storage by [NextCloud](https://nextcloud.com/)! Visit
+  their website to download some of their awesome, free cloud solution!
   
-<a href="http://confluence.ramsada.io/" class="btn btn-primary btn-lg"><span class="network-name">Visit Confluence</span></a>					
+<a href="http://nextcloud.ramsada.io/" class="btn btn-primary btn-lg"><span class="network-name">Visit NextCloud</span></a>	

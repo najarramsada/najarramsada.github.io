@@ -2,9 +2,9 @@
 layout: default
 img: ghost-logo.svg
 category: Services
-title: Kubernetes Container<br>by Rancher
+title: Blogs<br>by Ghost
 description: |
 ---
-  A Kubernetes Container cluster management by [RANCHER](https://rancher.com/) managing multi node kubernetes cluster hosted on Google Cloud!
+  A personal blogging platform management by [GHOST](https://ghost.org/) hosted on [GITHUB](https://github.com)!
   
-<a href="https://rancher.ramsada.io/" class="btn btn-primary btn-lg"><span class="network-name">Visit Rancher</span></a>					
+<a href="https://ramsada.io/blogs" class="btn btn-primary btn-lg"><span class="network-name">Visit my Blogs</span></a>					
