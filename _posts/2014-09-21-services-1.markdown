@@ -1,6 +1,6 @@
 ---
 layout: default
-img: rancher-logo-stacked-color.png
+img: ghost-logo.svg
 category: Services
 title: Kubernetes Container<br>by Rancher
 description: |
