@@ -2,7 +2,7 @@
 layout: default
 img: ghost-logo.svg
 category: Services
-title: Blogs<br>by Ghost
+title: Blogs<br>on Ghost
 description: |
 ---
   A personal blogging platform management by [GHOST](https://ghost.org/) hosted on [GITHUB](https://github.com)!

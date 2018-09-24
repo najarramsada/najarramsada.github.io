@@ -2,7 +2,7 @@
 layout: default
 img: nextcloud.png
 category: Services
-title: Private Cloud<br>by NextCloud
+title: Private Cloud<br>on NextCloud
 description: |
 ---
   Turn your private data storage into,

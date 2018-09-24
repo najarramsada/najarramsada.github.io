@@ -2,7 +2,7 @@
 layout: default
 img: GitHub_Logo.png
 category: Services
-title: Project Repository<br>by Github
+title: Project Repository<br>on Github
 description: |
 ---
   A collection of my various project repository on [GITHUB](https://github.com/najarramsada/)!
