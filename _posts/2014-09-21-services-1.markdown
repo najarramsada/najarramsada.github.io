@@ -7,4 +7,4 @@ description: |
 ---
   A personal blogging platform management by [GHOST](https://ghost.org/) hosted on [GITHUB](https://github.com)!
   
-<a href="https://ramsada.io/blogs" class="btn btn-primary btn-lg"><span class="network-name">Visit my Blogs</span></a>					
+<a href="https://ramsada.io/blogs" class="btn btn-primary btn-lg"><span class="network-name">Visit my Blog</span></a>					
