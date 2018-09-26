@@ -2,12 +2,15 @@
 <html>
 	{% include 00head.html %}
 
-	<body>
+	<body id="particles-js">
 		{% include 01header.html %}
 		{% include 02about.html %}
 		{% include 03page_content.html %}
 		{% include 04contact.html %}
 		{% include 05footer.html %}
 		{% include 06js.html %}
+		<script type="text/javascript">
+ particlesJS("particles-js",css/particlesjs-config.json);
+</script>
 	</body>
 </html>
