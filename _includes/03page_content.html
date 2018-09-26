@@ -1,14 +1,14 @@
 <section id="services">
-<div class="container-fluid" id="particles-js">
+<div class="container-fluid">
 <!-- Page Content -->
 {% for post in site.posts reversed %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
-    <div class="content-section-a" id="particles-js">
+    <div class="content-section-a">
 
         <div class="container">
 
-            <div class="row">
+            <div class="row"  id="particles-js">
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
@@ -27,11 +27,11 @@
     <!-- /.content-section-a -->
     {% else %}
 
-    <div class="content-section-b" id="particles-js">
+    <div class="content-section-b">
 
         <div class="container">
 
-            <div class="row">
+            <div class="row"  id="particles-js">
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
